@@ -1,0 +1,2876 @@
+fileFormatVersion: 2
+guid: 768d6c46cef64584c91c619b3fffcdb1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -298323301418225190
+    second: WrightYoungSpr_0
+  - first:
+      213: 7388897564802163381
+    second: WrightYoungSpr_1
+  - first:
+      213: -5869567195200011730
+    second: WrightYoungSpr_2
+  - first:
+      213: 4566073242812979045
+    second: WrightYoungSpr_3
+  - first:
+      213: 4823941725927018821
+    second: WrightYoungSpr_4
+  - first:
+      213: -344258771273607140
+    second: WrightYoungSpr_5
+  - first:
+      213: 3507673405499817105
+    second: WrightYoungSpr_6
+  - first:
+      213: -1187776506480027375
+    second: WrightYoungSpr_7
+  - first:
+      213: 4045158974745307018
+    second: WrightYoungSpr_8
+  - first:
+      213: -1401396024889859442
+    second: WrightYoungSpr_9
+  - first:
+      213: -6864816716264810264
+    second: WrightYoungSpr_10
+  - first:
+      213: -15129979255924567
+    second: WrightYoungSpr_11
+  - first:
+      213: -7526359728695182676
+    second: WrightYoungSpr_12
+  - first:
+      213: 5726369994446124486
+    second: WrightYoungSpr_13
+  - first:
+      213: -2945670780979696131
+    second: WrightYoungSpr_14
+  - first:
+      213: 1275390525192267075
+    second: WrightYoungSpr_15
+  - first:
+      213: -6909251684942213429
+    second: WrightYoungSpr_16
+  - first:
+      213: 5686200457199049233
+    second: WrightYoungSpr_17
+  - first:
+      213: 765290539323211737
+    second: WrightYoungSpr_18
+  - first:
+      213: 1806412064983364496
+    second: WrightYoungSpr_19
+  - first:
+      213: 4227303949689603903
+    second: WrightYoungSpr_20
+  - first:
+      213: 1146215147054888464
+    second: WrightYoungSpr_21
+  - first:
+      213: 769441460683786016
+    second: WrightYoungSpr_22
+  - first:
+      213: -7501819462193128571
+    second: WrightYoungSpr_23
+  - first:
+      213: 5768223049929768386
+    second: WrightYoungSpr_24
+  - first:
+      213: 4394602065247587734
+    second: WrightYoungSpr_25
+  - first:
+      213: 3388492681374574871
+    second: WrightYoungSpr_26
+  - first:
+      213: -9119211077380459840
+    second: WrightYoungSpr_27
+  - first:
+      213: 8308649678830934528
+    second: WrightYoungSpr_28
+  - first:
+      213: 4077568233194126856
+    second: WrightYoungSpr_29
+  - first:
+      213: 2230864030379304402
+    second: WrightYoungSpr_30
+  - first:
+      213: -1042425980289848927
+    second: WrightYoungSpr_31
+  - first:
+      213: 3125532283686757077
+    second: WrightYoungSpr_32
+  - first:
+      213: -7217855171357593717
+    second: WrightYoungSpr_33
+  - first:
+      213: 5914424041802475514
+    second: WrightYoungSpr_34
+  - first:
+      213: -6263092786327036030
+    second: WrightYoungSpr_35
+  - first:
+      213: 7905452934402158211
+    second: WrightYoungSpr_36
+  - first:
+      213: -3045875043050531275
+    second: WrightYoungSpr_37
+  - first:
+      213: 1421384630494753143
+    second: WrightYoungSpr_38
+  - first:
+      213: 4018495652090787320
+    second: WrightYoungSpr_39
+  - first:
+      213: 6937352858843620701
+    second: WrightYoungSpr_40
+  - first:
+      213: 204006159619612695
+    second: WrightYoungSpr_41
+  - first:
+      213: 8026551645419465842
+    second: WrightYoungSpr_42
+  - first:
+      213: 4580371144164006613
+    second: WrightYoungSpr_43
+  - first:
+      213: -5290778938034502620
+    second: WrightYoungSpr_44
+  - first:
+      213: 7785621787490401841
+    second: WrightYoungSpr_45
+  - first:
+      213: 8816635331784746006
+    second: WrightYoungSpr_46
+  - first:
+      213: -7010843424715033757
+    second: WrightYoungSpr_47
+  - first:
+      213: 1078190773739041626
+    second: WrightYoungSpr_48
+  - first:
+      213: -7891298143839581124
+    second: WrightYoungSpr_49
+  - first:
+      213: -7246359297570773825
+    second: WrightYoungSpr_50
+  - first:
+      213: -1276973240608559379
+    second: WrightYoungSpr_51
+  - first:
+      213: -6660027809672590375
+    second: WrightYoungSpr_52
+  - first:
+      213: -2545157343674675432
+    second: WrightYoungSpr_53
+  - first:
+      213: -7076282940878870143
+    second: WrightYoungSpr_54
+  - first:
+      213: 618158387804509262
+    second: WrightYoungSpr_55
+  - first:
+      213: -812867262686759871
+    second: WrightYoungSpr_56
+  - first:
+      213: -2055579753473921695
+    second: WrightYoungSpr_57
+  - first:
+      213: -7303072282170069711
+    second: WrightYoungSpr_58
+  - first:
+      213: -8836148793588896298
+    second: WrightYoungSpr_59
+  - first:
+      213: -2983412710731086094
+    second: WrightYoungSpr_60
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WrightYoungSpr_0
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 2719
+        width: 117
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1beb6b9842cdbf0800000000000000
+      internalID: -298323301418225190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_1
+      rect:
+        serializedVersion: 2
+        x: 2822
+        y: 2782
+        width: 109
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b228c7ef23aa8660800000000000000
+      internalID: 7388897564802163381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_2
+      rect:
+        serializedVersion: 2
+        x: 2950
+        y: 2398
+        width: 115
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2241d8fbbb1b8ea0800000000000000
+      internalID: -5869567195200011730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_3
+      rect:
+        serializedVersion: 2
+        x: 3098
+        y: 2270
+        width: 649
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56798481c63fd5f30800000000000000
+      internalID: 4566073242812979045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_4
+      rect:
+        serializedVersion: 2
+        x: 3578
+        y: 2814
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541901ff07512f240800000000000000
+      internalID: 4823941725927018821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_5
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 2238
+        width: 469
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c189c63b872f83bf0800000000000000
+      internalID: -344258771273607140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_6
+      rect:
+        serializedVersion: 2
+        x: 2579
+        y: 2590
+        width: 231
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19cb6eab062cda030800000000000000
+      internalID: 3507673405499817105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_7
+      rect:
+        serializedVersion: 2
+        x: 3834
+        y: 2590
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11914ba7f8b248fe0800000000000000
+      internalID: -1187776506480027375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_8
+      rect:
+        serializedVersion: 2
+        x: 3834
+        y: 2430
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a876da5c7aa432830800000000000000
+      internalID: 4045158974745307018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_9
+      rect:
+        serializedVersion: 2
+        x: 4026
+        y: 2526
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82abc28dbd3d8ce0800000000000000
+      internalID: -1401396024889859442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_10
+      rect:
+        serializedVersion: 2
+        x: 2854
+        y: 2239
+        width: 32
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e85fd261954bb0a0800000000000000
+      internalID: -6864816716264810264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_11
+      rect:
+        serializedVersion: 2
+        x: 3014
+        y: 2302
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8ddf03d5f3acff0800000000000000
+      internalID: -15129979255924567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_12
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 1950
+        width: 224
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa715ff3bffc8790800000000000000
+      internalID: -7526359728695182676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_13
+      rect:
+        serializedVersion: 2
+        x: 2278
+        y: 1950
+        width: 252
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5ba6b9b27287f40800000000000000
+      internalID: 5726369994446124486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_14
+      rect:
+        serializedVersion: 2
+        x: 2534
+        y: 1950
+        width: 256
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd25721800ee17d0800000000000000
+      internalID: -2945670780979696131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_15
+      rect:
+        serializedVersion: 2
+        x: 2790
+        y: 1950
+        width: 214
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345ebf3ece813b110800000000000000
+      internalID: 1275390525192267075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_16
+      rect:
+        serializedVersion: 2
+        x: 3098
+        y: 1822
+        width: 512
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce004703386d10a0800000000000000
+      internalID: -6909251684942213429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_17
+      rect:
+        serializedVersion: 2
+        x: 3642
+        y: 2046
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a5305603179ee40800000000000000
+      internalID: 5686200457199049233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_18
+      rect:
+        serializedVersion: 2
+        x: 3994
+        y: 1982
+        width: 128
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dfb35ad0bbde9a00800000000000000
+      internalID: 765290539323211737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_19
+      rect:
+        serializedVersion: 2
+        x: 3610
+        y: 1822
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093305bc33aa11910800000000000000
+      internalID: 1806412064983364496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_20
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 1194
+        width: 378
+        height: 573
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37cad68b866aaa30800000000000000
+      internalID: 4227303949689603903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_21
+      rect:
+        serializedVersion: 2
+        x: 2518
+        y: 1738
+        width: 92
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016f0647a9c28ef00800000000000000
+      internalID: 1146215147054888464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_22
+      rect:
+        serializedVersion: 2
+        x: 2838
+        y: 1706
+        width: 116
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027c38b8eea9daa00800000000000000
+      internalID: 769441460683786016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_23
+      rect:
+        serializedVersion: 2
+        x: 3114
+        y: 1066
+        width: 430
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58bddda02fe24e790800000000000000
+      internalID: -7501819462193128571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_24
+      rect:
+        serializedVersion: 2
+        x: 3482
+        y: 1546
+        width: 125
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cdb8447d48dc0050800000000000000
+      internalID: 5768223049929768386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_25
+      rect:
+        serializedVersion: 2
+        x: 3610
+        y: 1546
+        width: 125
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69dc7447b43ccfc30800000000000000
+      internalID: 4394602065247587734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_26
+      rect:
+        serializedVersion: 2
+        x: 3354
+        y: 1546
+        width: 125
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719a7550428560f20800000000000000
+      internalID: 3388492681374574871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_27
+      rect:
+        serializedVersion: 2
+        x: 3226
+        y: 1546
+        width: 125
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c23eec37dd027180800000000000000
+      internalID: -9119211077380459840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_32
+      rect:
+        serializedVersion: 2
+        x: 3598
+        y: 1450
+        width: 140
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d22a2f5d0f106b20800000000000000
+      internalID: 3125532283686757077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_34
+      rect:
+        serializedVersion: 2
+        x: 3578
+        y: 1354
+        width: 108
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7aaae7451441250800000000000000
+      internalID: 5914424041802475514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_35
+      rect:
+        serializedVersion: 2
+        x: 3866
+        y: 1482
+        width: 117
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f5aab4b460519a0800000000000000
+      internalID: -6263092786327036030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_36
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 559
+        width: 495
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e2c971f8fc5bd60800000000000000
+      internalID: 7905452934402158211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_37
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 816
+        width: 446
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536debc39c0eab5d0800000000000000
+      internalID: -3045875043050531275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_38
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 489
+        width: 648
+        height: 573
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771f6d56ac5c9b310800000000000000
+      internalID: 1421384630494753143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_39
+      rect:
+        serializedVersion: 2
+        x: 2134
+        y: 1034
+        width: 128
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5b252318094c730800000000000000
+      internalID: 4018495652090787320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_40
+      rect:
+        serializedVersion: 2
+        x: 2614
+        y: 1002
+        width: 128
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d552ae06bad664060800000000000000
+      internalID: 6937352858843620701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_41
+      rect:
+        serializedVersion: 2
+        x: 3887
+        y: 1002
+        width: 225
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7106e147586c4d200800000000000000
+      internalID: 204006159619612695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_42
+      rect:
+        serializedVersion: 2
+        x: 2134
+        y: 778
+        width: 230
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ced8ce13a046f60800000000000000
+      internalID: 8026551645419465842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_43
+      rect:
+        serializedVersion: 2
+        x: 2390
+        y: 778
+        width: 64
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da585ba94fb09f30800000000000000
+      internalID: 4580371144164006613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_44
+      rect:
+        serializedVersion: 2
+        x: 3353
+        y: 809
+        width: 110
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424c55d66906396b0800000000000000
+      internalID: -5290778938034502620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_45
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 207
+        width: 260
+        height: 327
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e38e604c51c0c60800000000000000
+      internalID: 7785621787490401841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_46
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 433
+        width: 49
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61420392f1bfa5a70800000000000000
+      internalID: 8816635331784746006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_47
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 437
+        width: 39
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3633afddc0b74be90800000000000000
+      internalID: -7010843424715033757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_48
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 560
+        width: 297
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53b1d4dbc086fe00800000000000000
+      internalID: 1078190773739041626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_49
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 528
+        width: 171
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c0eb7e52a7c7290800000000000000
+      internalID: -7891298143839581124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_50
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 127
+        width: 610
+        height: 417
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4e1799c92cf6b90800000000000000
+      internalID: -7246359297570773825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_51
+      rect:
+        serializedVersion: 2
+        x: 2509
+        y: 640
+        width: 109
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deee8d57a97474ee0800000000000000
+      internalID: -1276973240608559379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_53
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 303
+        width: 170
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f4bc871e8cdacd0800000000000000
+      internalID: -2545157343674675432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_54
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 458
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18922c2382efbcd90800000000000000
+      internalID: -7076282940878870143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_59
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 175
+        width: 290
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd23a7fc71bf5580800000000000000
+      internalID: -8836148793588896298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_60
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 0
+        width: 118
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f60d7642f9c896d0800000000000000
+      internalID: -2983412710731086094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_61
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 2590
+        width: 229
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743766e5a99a3c143a35af6995df277a
+      internalID: 180831631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_62
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 2590
+        width: 117
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50e0841c6c9fb7469bf3dbd7541e370
+      internalID: -1660798922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_52
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 944
+        width: 34
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f731bcd605a8ed7459ebe7593f68abd8
+      internalID: -6660027809672590375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_55
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 944
+        width: 237
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ee63e26e4af984bb2a2a9c807770ac
+      internalID: 618158387804509262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_56
+      rect:
+        serializedVersion: 2
+        x: 2093
+        y: 544
+        width: 222
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7f6defc37053341baf409204ab64d5
+      internalID: -812867262686759871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_57
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 608
+        width: 116
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe783a456ab308c408eeb46985875190
+      internalID: -2055579753473921695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_58
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 544
+        width: 116
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebc725f3676e7346a921acdf37f88f6
+      internalID: -7303072282170069711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_63
+      rect:
+        serializedVersion: 2
+        x: 2518
+        y: 1674
+        width: 92
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06d55152635a034ca22dc9a8a87571d
+      internalID: 2025538666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_64
+      rect:
+        serializedVersion: 2
+        x: 2518
+        y: 1610
+        width: 92
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ace2563954c4dd4983857b65d72965a
+      internalID: 1277448214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_65
+      rect:
+        serializedVersion: 2
+        x: 2518
+        y: 1194
+        width: 295
+        height: 416
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b01ac9af7e8c948a961d9665e4dc47
+      internalID: -34858291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_66
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 1610
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b842a2281f55c4597f3f19b15680ea
+      internalID: -1166288992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_67
+      rect:
+        serializedVersion: 2
+        x: 3098
+        y: 1546
+        width: 128
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86475742f7494c4bad5a6a4f1a0b59d
+      internalID: -1216701119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_28
+      rect:
+        serializedVersion: 2
+        x: 2838
+        y: 1514
+        width: 117
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11285b157c3745940a98d73f44c85377
+      internalID: 8308649678830934528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_29
+      rect:
+        serializedVersion: 2
+        x: 2838
+        y: 1610
+        width: 116
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd84c9dcfe9869643a21a501405adedf
+      internalID: 4077568233194126856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_30
+      rect:
+        serializedVersion: 2
+        x: 3098
+        y: 2142
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94cfd1ced65a1d542984bce3eb1e830e
+      internalID: 2230864030379304402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_31
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 2142
+        width: 265
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d74e74aed7edae49b1328209297de29
+      internalID: -1042425980289848927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_33
+      rect:
+        serializedVersion: 2
+        x: 3610
+        y: 2074
+        width: 27
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389a3265738b08f42b55f3df76c122ae
+      internalID: -7217855171357593717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_68
+      rect:
+        serializedVersion: 2
+        x: 3642
+        y: 2014
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51f8f534de45b049bf42150019de4bd
+      internalID: 729519712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_69
+      rect:
+        serializedVersion: 2
+        x: 3674
+        y: 1982
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ec3459796207c4dbd41a5049c57c1b
+      internalID: 281162820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_70
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 1918
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f112fd42806e2c24a803987347069092
+      internalID: -508437595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_71
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 1886
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074f79e23eb35a64b9c7a9471e0326c8
+      internalID: 1832958685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_72
+      rect:
+        serializedVersion: 2
+        x: 3802
+        y: 1822
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5485766ba16d2458c7e133330cb04d
+      internalID: -1275396275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_73
+      rect:
+        serializedVersion: 2
+        x: 3930
+        y: 1886
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3565356ea4045a419e1258aa032cc75
+      internalID: -988854353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_74
+      rect:
+        serializedVersion: 2
+        x: 3994
+        y: 1822
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63cf19902666c184b9c01cb3b13c3dea
+      internalID: -1898161456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_75
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 1034
+        width: 128
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88914a458a3d1f40970e6518061dae2
+      internalID: 496276167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_76
+      rect:
+        serializedVersion: 2
+        x: 2390
+        y: 1034
+        width: 128
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199ab69df6a18c34fa72fe703872d689
+      internalID: 1535797346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_77
+      rect:
+        serializedVersion: 2
+        x: 2742
+        y: 1002
+        width: 128
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efd63a8ac9656e40ab118b9e976064a
+      internalID: 2076841729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_78
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 1002
+        width: 128
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c562491871094d14ab5f9f2c9414ca6b
+      internalID: 1724871240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_79
+      rect:
+        serializedVersion: 2
+        x: 3866
+        y: 1418
+        width: 117
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33d40a4189595c42a18a975c46bb18b
+      internalID: 1818712222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_80
+      rect:
+        serializedVersion: 2
+        x: 3866
+        y: 1354
+        width: 117
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bf7999b65a6e04bbf7f5267a1af3f7
+      internalID: -162154779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_81
+      rect:
+        serializedVersion: 2
+        x: 3866
+        y: 1290
+        width: 117
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd985e7295fdf6947b677c25c6f996d6
+      internalID: -695124894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_82
+      rect:
+        serializedVersion: 2
+        x: 3706
+        y: 1354
+        width: 108
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2083a6163efb9bb408ad90e5860edca1
+      internalID: 1859861385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_83
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 1450
+        width: 108
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027077a7062af17418637fa6162a82f1
+      internalID: -2043364436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_84
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 1354
+        width: 108
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9eb0ec643e7cf4385a39924732ea5c
+      internalID: 945161183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_85
+      rect:
+        serializedVersion: 2
+        x: 3194
+        y: 1450
+        width: 108
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007cc7d824e919146be1b871f0820274
+      internalID: -263193869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_86
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 1450
+        width: 108
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97defffd80599be46873128068e8d3cd
+      internalID: -1232057979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_87
+      rect:
+        serializedVersion: 2
+        x: 3194
+        y: 1354
+        width: 108
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d6ac78dc3a4154f9729b8340e3e01d
+      internalID: -1995689005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_88
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 1354
+        width: 108
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498e4bfea75d30d4695cecbf9939488d
+      internalID: -737193431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_89
+      rect:
+        serializedVersion: 2
+        x: 2509
+        y: 576
+        width: 109
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ae6ed3885f4f349ac4aea3ab0da619
+      internalID: -1869387846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_90
+      rect:
+        serializedVersion: 2
+        x: 2509
+        y: 512
+        width: 109
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b412005af414cd4594881059bcd1970
+      internalID: 1972474709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_91
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 393
+        width: 128
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb5f59b39205fe42973e1a30566ce39
+      internalID: 1818671567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_92
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 297
+        width: 128
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58420adeeb919a4193e9792a243e017
+      internalID: 817264751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_93
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 201
+        width: 128
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13803d5a6498e2746bb8e40d27f1385e
+      internalID: 1267545671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_94
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 105
+        width: 128
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fba7f95ca9efe447afb1a700902e010
+      internalID: 130502967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_95
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 393
+        width: 128
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c72917f4f89c7846b51abbfac1ae692
+      internalID: 1534652704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_96
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 297
+        width: 128
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8ca6f47b22e3e49b5f78261d30acfb
+      internalID: -36312403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_97
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 201
+        width: 128
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6247cae6304e07846aaa6ca9d2c7337d
+      internalID: 328051662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_98
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 105
+        width: 128
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c889a61554af15d4db911cc0c51ebb64
+      internalID: -350872572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_99
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 1822
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b91181dcd7bfc84386706044a22ca6c
+      internalID: -224401681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_100
+      rect:
+        serializedVersion: 2
+        x: 2553
+        y: 2144
+        width: 238
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c937c6aa29ed7904eba6cc806d3ccffe
+      internalID: -1924686290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_101
+      rect:
+        serializedVersion: 2
+        x: 2840
+        y: 2144
+        width: 164
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db02f98b372c3534382384659aeaf6c5
+      internalID: 604662596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_102
+      rect:
+        serializedVersion: 2
+        x: 2950
+        y: 2462
+        width: 115
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0fc3a546ed2d245a7d3cd4b9eb4a53
+      internalID: 688940223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_103
+      rect:
+        serializedVersion: 2
+        x: 2950
+        y: 2526
+        width: 115
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce25f5d59b25c9c4c8a0184b6983fca5
+      internalID: -1940279233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_104
+      rect:
+        serializedVersion: 2
+        x: 2950
+        y: 2590
+        width: 115
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3ed59510280e7469d607277e6d20c1
+      internalID: -548691559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_105
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 2654
+        width: 92
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ded841f1646b0d43a92f6fcb25e0c99
+      internalID: -619680911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_106
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 2718
+        width: 92
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e4b501ffb0de2438ee5d40119d76ef
+      internalID: -915595937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_107
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 2782
+        width: 92
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b466bc82e9876664fb7d0de8050824f5
+      internalID: 311527530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_108
+      rect:
+        serializedVersion: 2
+        x: 2822
+        y: 2686
+        width: 109
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ed3bf78907cb448b289aef99241479
+      internalID: -1571406981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_109
+      rect:
+        serializedVersion: 2
+        x: 2822
+        y: 2622
+        width: 95
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70a7e1461459d14390702568c07e084
+      internalID: -2030179629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_110
+      rect:
+        serializedVersion: 2
+        x: 2822
+        y: 2558
+        width: 95
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9452dc65c2c9d841a7d6db9e55ae89b
+      internalID: 2097964764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrightYoungSpr_111
+      rect:
+        serializedVersion: 2
+        x: 2566
+        y: 2238
+        width: 238
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1df654057a91a64d87796df522b7c91
+      internalID: -915632648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: bd978f2f2bbbc4a43b463aa15548b30c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WrightYoungSpr_0: -298323301418225190
+      WrightYoungSpr_1: 7388897564802163381
+      WrightYoungSpr_10: -6864816716264810264
+      WrightYoungSpr_100: -1924686290
+      WrightYoungSpr_101: 604662596
+      WrightYoungSpr_102: 688940223
+      WrightYoungSpr_103: -1940279233
+      WrightYoungSpr_104: -548691559
+      WrightYoungSpr_105: -619680911
+      WrightYoungSpr_106: -915595937
+      WrightYoungSpr_107: 311527530
+      WrightYoungSpr_108: -1571406981
+      WrightYoungSpr_109: -2030179629
+      WrightYoungSpr_11: -15129979255924567
+      WrightYoungSpr_110: 2097964764
+      WrightYoungSpr_111: -915632648
+      WrightYoungSpr_12: -7526359728695182676
+      WrightYoungSpr_13: 5726369994446124486
+      WrightYoungSpr_14: -2945670780979696131
+      WrightYoungSpr_15: 1275390525192267075
+      WrightYoungSpr_16: -6909251684942213429
+      WrightYoungSpr_17: 5686200457199049233
+      WrightYoungSpr_18: 765290539323211737
+      WrightYoungSpr_19: 1806412064983364496
+      WrightYoungSpr_2: -5869567195200011730
+      WrightYoungSpr_20: 4227303949689603903
+      WrightYoungSpr_21: 1146215147054888464
+      WrightYoungSpr_22: 769441460683786016
+      WrightYoungSpr_23: -7501819462193128571
+      WrightYoungSpr_24: 5768223049929768386
+      WrightYoungSpr_25: 4394602065247587734
+      WrightYoungSpr_26: 3388492681374574871
+      WrightYoungSpr_27: -9119211077380459840
+      WrightYoungSpr_28: 8308649678830934528
+      WrightYoungSpr_29: 4077568233194126856
+      WrightYoungSpr_3: 4566073242812979045
+      WrightYoungSpr_30: 2230864030379304402
+      WrightYoungSpr_31: -1042425980289848927
+      WrightYoungSpr_32: 3125532283686757077
+      WrightYoungSpr_33: -7217855171357593717
+      WrightYoungSpr_34: 5914424041802475514
+      WrightYoungSpr_35: -6263092786327036030
+      WrightYoungSpr_36: 7905452934402158211
+      WrightYoungSpr_37: -3045875043050531275
+      WrightYoungSpr_38: 1421384630494753143
+      WrightYoungSpr_39: 4018495652090787320
+      WrightYoungSpr_4: 4823941725927018821
+      WrightYoungSpr_40: 6937352858843620701
+      WrightYoungSpr_41: 204006159619612695
+      WrightYoungSpr_42: 8026551645419465842
+      WrightYoungSpr_43: 4580371144164006613
+      WrightYoungSpr_44: -5290778938034502620
+      WrightYoungSpr_45: 7785621787490401841
+      WrightYoungSpr_46: 8816635331784746006
+      WrightYoungSpr_47: -7010843424715033757
+      WrightYoungSpr_48: 1078190773739041626
+      WrightYoungSpr_49: -7891298143839581124
+      WrightYoungSpr_5: -344258771273607140
+      WrightYoungSpr_50: -7246359297570773825
+      WrightYoungSpr_51: -1276973240608559379
+      WrightYoungSpr_52: -6660027809672590375
+      WrightYoungSpr_53: -2545157343674675432
+      WrightYoungSpr_54: -7076282940878870143
+      WrightYoungSpr_55: 618158387804509262
+      WrightYoungSpr_56: -812867262686759871
+      WrightYoungSpr_57: -2055579753473921695
+      WrightYoungSpr_58: -7303072282170069711
+      WrightYoungSpr_59: -8836148793588896298
+      WrightYoungSpr_6: 3507673405499817105
+      WrightYoungSpr_60: -2983412710731086094
+      WrightYoungSpr_61: 180831631
+      WrightYoungSpr_62: -1660798922
+      WrightYoungSpr_63: 2025538666
+      WrightYoungSpr_64: 1277448214
+      WrightYoungSpr_65: -34858291
+      WrightYoungSpr_66: -1166288992
+      WrightYoungSpr_67: -1216701119
+      WrightYoungSpr_68: 729519712
+      WrightYoungSpr_69: 281162820
+      WrightYoungSpr_7: -1187776506480027375
+      WrightYoungSpr_70: -508437595
+      WrightYoungSpr_71: 1832958685
+      WrightYoungSpr_72: -1275396275
+      WrightYoungSpr_73: -988854353
+      WrightYoungSpr_74: -1898161456
+      WrightYoungSpr_75: 496276167
+      WrightYoungSpr_76: 1535797346
+      WrightYoungSpr_77: 2076841729
+      WrightYoungSpr_78: 1724871240
+      WrightYoungSpr_79: 1818712222
+      WrightYoungSpr_8: 4045158974745307018
+      WrightYoungSpr_80: -162154779
+      WrightYoungSpr_81: -695124894
+      WrightYoungSpr_82: 1859861385
+      WrightYoungSpr_83: -2043364436
+      WrightYoungSpr_84: 945161183
+      WrightYoungSpr_85: -263193869
+      WrightYoungSpr_86: -1232057979
+      WrightYoungSpr_87: -1995689005
+      WrightYoungSpr_88: -737193431
+      WrightYoungSpr_89: -1869387846
+      WrightYoungSpr_9: -1401396024889859442
+      WrightYoungSpr_90: 1972474709
+      WrightYoungSpr_91: 1818671567
+      WrightYoungSpr_92: 817264751
+      WrightYoungSpr_93: 1267545671
+      WrightYoungSpr_94: 130502967
+      WrightYoungSpr_95: 1534652704
+      WrightYoungSpr_96: -36312403
+      WrightYoungSpr_97: 328051662
+      WrightYoungSpr_98: -350872572
+      WrightYoungSpr_99: -224401681
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
