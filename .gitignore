@@ -74,4 +74,4 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 # Large Files
-/[Aa]ssets/[Ff]onts/SourceHanSerifSC-Bold SDF.asset
+# /[Aa]ssets/[Ff]onts/SourceHanSerifSC-Bold SDF.asset
