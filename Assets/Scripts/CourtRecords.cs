@@ -21,7 +21,8 @@ public class CourtRecords : MonoBehaviour
     // 证物页数
     //private int EvidencePage;
     private string[] EvidenceList;
-    public int[] Inventory;
+    public int[] InvRecords;
+    public int[] InvProfile;
 
     // 单例模式
     private static CourtRecords _instance;
@@ -49,6 +50,10 @@ public class CourtRecords : MonoBehaviour
     }
     public void NewItem(int ItemID)
     {
-        Inventory[Inventory.Length - 1] = ItemID;
+        InvRecords[InvRecords.Length - 1] = ItemID;
+    }
+    public void NewProfile(int PersonID)
+    {
+        InvProfile[InvProfile.Length - 1] = PersonID;
     }
 }

@@ -46,8 +46,9 @@ public class SaveDataScripts : MonoBehaviour
         public int ChapterID;
         public int AreaID;
         public int dialogIndex;
-        public int[] Inventory;
         public int Health;
+        public int[] InvRecords;
+        public int[] InvProfile;
     }
 
     public SaveData CreateSaveData()
@@ -59,8 +60,9 @@ public class SaveDataScripts : MonoBehaviour
         saveData.ChapterID = GameBaseController.Instance.ChapterID;
         saveData.AreaID = GameBaseController.Instance.AreaID;
         saveData.dialogIndex = GameBaseController.Instance.dialogIndex;
-        saveData.Inventory = CourtRecords.Instance.Inventory;
         saveData.Health = GameBaseController.Instance.Health;
+        saveData.InvRecords = CourtRecords.Instance.InvRecords;
+        saveData.InvProfile = CourtRecords.Instance.InvProfile;
         return saveData;
     }
 
@@ -114,8 +116,9 @@ public class SaveDataScripts : MonoBehaviour
             DataCarrier.Instance.ChapterID = saveData.ChapterID;
             DataCarrier.Instance.AreaID = saveData.AreaID;
             DataCarrier.Instance.dialogIndex = saveData.dialogIndex;
-            DataCarrier.Instance.Inventory = saveData.Inventory;
             DataCarrier.Instance.Health = saveData.Health;
+            DataCarrier.Instance.InvRecords = saveData.InvRecords;
+            DataCarrier.Instance.InvProfile = saveData.InvProfile;
             //关闭文件流
             fs.Close();
             DataCarrier.Instance.InGame = true;

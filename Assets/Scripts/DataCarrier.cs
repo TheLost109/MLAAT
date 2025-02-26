@@ -8,8 +8,9 @@ public class DataCarrier : MonoBehaviour
     public int AreaID;
     public int dialogIndex;
     public int Health;
-    public int[] Inventory;
     public bool InGame = false;
+    public int[] InvRecords;
+    public int[] InvProfile;
 
     // µ¥ÀýÄ£Ê½
     private static DataCarrier _instance;
