@@ -19,7 +19,7 @@ public class ChapSelectScripts : MonoBehaviour
     public GameObject MuseumPanel;
     // “Ù∆µœ‡πÿ
     public AudioWithIntro TSMusic;
-    public AudioSource MLIMusic;
+    public AudioWithIntro MLIMusic;
     public AudioWithIntro EoJMusic;
     public AudioWithIntro MuseumMusicMelody;
     public AudioWithIntro MuseumMusicRhythm;

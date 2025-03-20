@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      My-little-investigations-logo_0: 7906616194911601503
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
